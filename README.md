@@ -10,5 +10,5 @@ Source Code: See code.py
 <br>
 How to start a Machine Learning Project Article (8 min): https://theryanrana.medium.com/how-to-start-a-machine-learning-project-caf08b68f0d5
 <br>
-Creators of Workshop Contact: Ryan Rana (ryanrana04@gmail.com) and Arin Harakwat (COMING SOON)
+Creators of Workshop Contact: Ryan Rana (ryanrana04@gmail.com) and Arin Harakwat (arin.harkawat@gmail.com)
 
