@@ -21,7 +21,7 @@ for iteration in range(1000):
     error = (y - sigmoid)
     #deriviative of sigmoid
     sigmoidDerivative = sigmoid * (1 - sigmoid)
-    #adjustment of the wights
+    #adjustment of the weights
     synaptic_weights += np.dot(x.T, error*sigmoidDerivative)
 
 
