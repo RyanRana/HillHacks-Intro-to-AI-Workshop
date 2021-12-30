@@ -1,6 +1,6 @@
 # HillHacks-Intro-to-AI-Workshop
 
-This is the official repositry for the 2022 HillHacks "Intro to Artificial Intelligence" workshop on Feburary 6. Here you will find all reasources used in the workshop. Thank you for viewing, we hope you can find something useful.
+This is the official repositry for the 2022 HillHacks "Intro to Artificial Intelligence" workshop on Feburary 6. In this workshop students learned what AI is, Explored Applications of AI, Learned the steps it takes to complete an AI project, and then actually built a project that uses a Neural Network to predict exam scores given the amount of hours a student slept and studied. Here you will find all reasources used in the workshop. Thank you for viewing, we hope you can find something useful.
 
 Link to Presentation: COMING SOON
 <br>
