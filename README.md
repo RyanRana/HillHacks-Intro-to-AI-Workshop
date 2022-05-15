@@ -4,7 +4,7 @@ This is the official repositry for the 2022 HillHacks "Intro to Artificial Intel
 
 Link to Presentation: https://docs.google.com/presentation/d/1tzkLLgXzIPPhLjeUxCJYlVYFE8uWt7mAsiTKUzZ_B1E/edit?usp=sharing
 <br>
-Video Recording of Workshop: COMING SOON
+Video Recording of Workshop: https://youtu.be/-uOQthsNK90
 <br>
 Source Code: See code.py
 <br>
